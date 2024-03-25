@@ -16,4 +16,4 @@ These three metrics might be used to replace "population," "GDP," and "urbanizat
 
 I have a bunch of data I can plug into this to support treating linking these three metrics to changes in emissions. 
 
-I'm hoping to have time to lay all that out more detail soon, perhaps over Spring or Summer Break. Stay tuned!
+I'm hoping to have time to lay all this out in more detail soon, perhaps over Spring or Summer Break. Stay tuned!

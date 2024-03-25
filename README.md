@@ -12,4 +12,8 @@ I've got an idea of how to do it, but maybe you have a better one? Let's jam and
 2) Democratization & DEI
 3) Localization (i.e., distence goods and food must travel to get to people)
 
-I'm hoping to have time to lay this all out in more detail soon, perhaps over Spring or Summer Break.
+These three metrics might be used to replace "population," "GDP," and "urbanizaton" in climate scenarios. 
+
+I have a bunch of data I can plug into this to support treating linking these three metrics to changes in emissions. 
+
+I'm hoping to have time to lay all that out more detail soon, perhaps over Spring or Summer Break. Stay tuned!

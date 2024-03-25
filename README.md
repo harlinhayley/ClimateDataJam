@@ -7,9 +7,9 @@ Is there a better way to parameterize future-oriented climate data? Specifically
 
 I've got an idea of how to do it, but maybe you have a better one? Let's jam and see what we come up with :)
 
-What if we have three types of social metrics:
-1) Investment/Subsidies towards expanding emitting infrastructure
-2) Democratization & Equity
-3) Localization 
+What if we have three types of social metrics tried to emissions:
+1) Investment/Subsidies towards expanding directly emitting infrastructure
+2) Democratization & DEI
+3) Localization (i.e., distence goods and food must travel to get to people)
 
-I have some research that can be used to expand and justify each of these three "social" mediators of emissions - I'm hoping to have time to lay this all out in more detail soon, perhaps over Spring or Summer Break.
+I'm hoping to have time to lay this all out in more detail soon, perhaps over Spring or Summer Break.

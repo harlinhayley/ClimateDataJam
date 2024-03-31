@@ -25,7 +25,7 @@ These three alternative drivers would replace "population" "GDP" and "urbanizati
 
 # Ideas for what could happen next:
 - Develop metric to show relation between fossil fuel funding ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2).
-- Create new set of socio-economic scenarios data that exclube the broken populaton metric.
+- Create new set of socio-economic scenarios data that exclude the broken populaton metric.
 -  This set of scearios data would use fff (fossil fuel funding) as its core social driver (simular to the way the SSPs use "population"). FFF would be mediated in two ways: $investment and $subsidies.
 -   The SSPs use "urbanization" and "GPD," metrics that are also contentious, and should be left out of our scenarios approach.
 -   As altneratives to "urbanization" and "GDP," we might consider two alternative metrics: "Localization" and "DDEI."

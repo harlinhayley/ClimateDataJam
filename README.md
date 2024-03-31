@@ -42,4 +42,6 @@ These three alternative social drivers would replace "population" "GDP" and "urb
    
 ## Workflow Notes
 
-Harlin/Hayley: I have a bunch of data to support linking these three metrics to changes in emissions, but I've run out of time to work on this project. I'm presently lookign for support that would allow me to focus more attention into these efforts. (Stay tuned!) In the meantime, if you wnat to noodle and tinker with these ideas, please go ahead!
+Harlin/Hayley: I have a bunch of data to support linking these three metrics to changes in emissions, but I've run out of time to work on these efforts . I'm presently looking for support that would allow me to focus more time and attention into this project. (Stay tuned!) 
+
+In the meantime, if you wnat to noodle and tinker with these ideas, please go ahead! 😸

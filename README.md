@@ -33,13 +33,13 @@ These three alternative social drivers would replace "population" "GDP" and "urb
 -   "DDEI" stands for "democratization, diversity, equity, and inclusioin." It meausures things like democratic control over politics, co-ops (democratic control of workplaces and housing), gender equity, anti-racism, representation in the media of differing groups, etc.
 -   Work needs to be done to assemble an updated bibliography that pertain to these metrics, and a rationale written for their use.
 
-# Considerations
+## Considerations
 - While the SSPs tend to congeal the social metrics together before running them through the models, perhaps our approach could make it easier to parse out different metrics and allow users to more easily to toggle the metrics up and down? This may help users better understand the projected cause and effect.
 - For each of the metrics, it will be important to offer ordinary language walk-throughs that explain how these "social structures" lead to emissions, making it easy for non-experts to understand why these metrics were chosen. Thorough and appropriate meta-data is a must!
 - While developing these data sets and metrics, it will be important to keep in mind different types of tools in which they might be incorporated. In this way, working with game designers is advised, so we might ensure these data are as usable as possible for those who wish to create games and interactive tools.
 - It is worth considering that every metric that can be toggled up or down is a form of "game mechanic rhetoric" that encourages uses to behave in ways that cause that thing to change. In this regard, ethicial considerations must be taken regarding which metrics are rendered interactive in any climate data or tool.
 - It is worth documenting any constructive criticisms we may have about methods, espeically present climate data modeling regimes. While one of our goals is to offer an interventions into the SSPs, is the type of modeling really the best approach? An intervention of this kind is certainly needed, but might there be a new paradigm that comes into focus while we work?
    
-# Workflow Notes
+## Workflow Notes
 
 Harlin/Hayley: I have a bunch of data to support linking these three metrics to changes in emissions, but I've run out of time to work on this project. I'm presently lookign for support that would allow me to focus more attention into these efforts. (Stay tuned!) In the meantime, if you wnat to noodle and tinker with these ideas, please go ahead!

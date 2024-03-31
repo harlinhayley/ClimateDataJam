@@ -17,14 +17,14 @@ By now, you should have read the [CCSWG working group thread](https://wg.critica
 - Create an intervention into climate scenarios data that can be used to replace the SSPs in modeling.
 
 # Three Proposed Alternative "Social Driver" Metrics for Climate Scenarios Modeling:
-- Fossil Fuel Funding (fff) - divided into global investment ($investment) and global subsidies ($subsidies)
-- Localization - measures how far goods and food travel to reach people, as well as localization of money and exchange, as well as the degree to which production and land use is controlled by people local to a region, including Indigenous sovereignty. 
-- DDEI - stands for "democratization, diversity, equity, and inclusioin." It meausures things like democratic control over politics, co-ops (democratic control of workplaces and housing), gender equity, anti-racism, representation in the media of differing groups, people under 25 on decision-making boards, etc.
+- Fossil Fuel Funding (fff) - divided into global investment ($investment) and global subsidies ($subsidies), measured in corelation to emissions.
+- Localization - how far goods and food travel to reach people, as well as localization of money and exchange, as well as the degree to which production and land use is controlled by people local to a region, including Indigenous sovereignty. 
+- DDEI - stands for "democratization, diversity, equity, and inclusioin." It gets into the emissions reduction corelated with things like democratic control over politics, co-ops (democratic control of workplaces and housing), gender equity, anti-racism, people under 25 on decision-making boards, etc.
 
-These three alternative drivers would replace "population" "GDP" and "urbanization."
+These three alternative social drivers would replace "population" "GDP" and "urbanization" in climate scenarios data.
 
 # Ideas for what could happen next:
-- Develop metric to show relation between fossil fuel funding ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2).
+- Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2).
 - Create new set of socio-economic scenarios data that exclude the broken populaton metric.
 -  This set of scearios data would use fff (fossil fuel funding) as its core social driver (simular to the way the SSPs use "population"). FFF would be mediated in two ways: $investment and $subsidies.
 -   The SSPs use "urbanization" and "GPD," metrics that are also contentious, and should be left out of our scenarios approach.

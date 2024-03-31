@@ -6,11 +6,11 @@ Before you hop into this project, please take a moment to read this thread from 
 
 This should give you a better idea of the goals, scope and context of this project.
 
-<br>
+---
 
 By now, you should have read the CCSWG working group thread [CCSWG working group thread](https://wg.criticalcodestudies.com/index.php?p=/discussion/177/code-critique-unpacking-climate-code-data-rhetoric-magic-cards-and-the-ssps), which should give you a sense of why the broken "population" metric needs to be removed from the SSPs and other forms of climate data and ecological data. If you have not yet read that thread, please take time to read it.
 
-<br>
+---
 
 # Three Proposed "Social Driver" Metrics for this Alternative Form of Climate Scenarios Modeling:
 - Fossil Fuel Funding (fff) - divided into global investment ($investment) and global subsidies ($subsidies)

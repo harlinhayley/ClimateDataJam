@@ -12,7 +12,7 @@ By now, you should have read the [CCSWG working group thread](https://wg.critica
 
 ---
 
-# Two goal of this project
+# Two goals of this project
 - Create alternative forms of climate and ecological data that do not use broken population metrics.
 - Create an intervention into climate scenarios data that can be used to replace the SSPs in modeling.
 

@@ -41,4 +41,4 @@ These three alternative drivers would replace "population" "GDP" and "urbanizati
    
 # Workflow Notes
 
-Harlin/Hayley: I have a bunch of data I can plug into this to support treating linking these three metrics to changes in emissions, but I've run out of time to work on this project. I'm presently lookign for support that would allow me to focus more time and attention into this project. (Stay tuned!) In the meantime, if you wnat to noodle and tinker with these ideas, please go ahead!
+Harlin/Hayley: I have a bunch of data to support linking these three metrics to changes in emissions, but I've run out of time to work on this project. I'm presently lookign for support that would allow me to focus more time and attention into these efforts. (Stay tuned!) In the meantime, if you wnat to noodle and tinker with these ideas, please go ahead!

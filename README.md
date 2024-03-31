@@ -12,11 +12,11 @@ By now, you should have read the [CCSWG working group thread](https://wg.critica
 
 ---
 
-# Two goals of this project
+## Two goals of this project
 - Create alternative forms of climate and ecological data that do not use broken population metrics.
 - Create an intervention into climate scenarios data that can be used to replace the SSPs in modeling.
 
-# Three Proposed Alternative "Social Driver" Metrics for Climate Scenarios Modeling:
+## Three Proposed Alternative "Social Driver" Metrics for Climate Scenarios Modeling:
 - Fossil Fuel Funding (fff) - divided into global investment ($investment) and global subsidies ($subsidies), measured in corelation to emissions.
 - Localization - how far goods and food travel to reach people, as well as localization of money and exchange, as well as the degree to which production and land use is controlled by people local to a region, including Indigenous sovereignty. 
 - DDEI - stands for "democratization, diversity, equity, and inclusioin." It gets into the emissions reduction corelated with things like democratic control over politics, co-ops (democratic control of workplaces and housing), gender equity, anti-racism, people under 25 on decision-making boards, etc.

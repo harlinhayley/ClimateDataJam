@@ -17,18 +17,18 @@ By now, you should have read the [CCSWG working group thread](https://wg.critica
 - Create an intervention into climate scenarios data that can be used to replace the SSPs in modeling.
 
 ## Three Proposed Alternative "Social Driver" Metrics for Climate Scenarios Modeling:
-- Fossil Fuel Funding (fff) - divided into global investment ($investment) and global subsidies ($subsidies), measured in corelation to emissions.
+- Fossil Fuel Funding (fff) - divided into global investment ($investment) and global subsidies ($subsidies), measured in correlation to emissions.
 - Localization - how far goods and food travel to reach people, as well as localization of money and exchange, as well as the degree to which production and land use is controlled by people local to a region, including Indigenous sovereignty. 
-- DDEI - stands for "democratization, diversity, equity, and inclusioin." It gets into the emissions reduction corelated with things like democratic control over politics, co-ops (democratic control of workplaces and housing), gender equity, anti-racism, people under 25 on decision-making boards, etc.
+- DDEI - stands for "democratization, diversity, equity, and inclusion." It gets into the emissions reduction correlated with things like democratic control over politics, co-ops (democratic control of workplaces and housing), gender equity, anti-racism, people under 25 on decision-making boards, etc.
 
 These three alternative social drivers would replace "population" "GDP" and "urbanization" in climate scenarios data.
 
 # Ideas for what could happen next:
 - Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2).
-- Create new set of socio-economic scenarios data that exclude the broken populaton metric.
--  This set of scearios data would use fff (fossil fuel funding) as its core social driver (simular to the way the SSPs use "population"). FFF would be mediated in two ways: $investment and $subsidies.
+- Create new set of socio-economic scenarios data that exclude the broken population metric.
+-  This set of scenarios data would use fff (fossil fuel funding) as its core social driver (similar to the way the SSPs use "population"). FFF would be mediated in two ways: $investment and $subsidies.
 -   The SSPs use "urbanization" and "GPD," metrics that are also contentious, and should be left out of our scenarios approach.
--   As altneratives to "urbanization" and "GDP," we might consider two alternative metrics: "Localization" and "DDEI."
+-   As alternatives to "urbanization" and "GDP," we might consider two alternative metrics: "Localization" and "DDEI."
 -   "Localization" measures how far goods and food travel to reach people, as well as the degree to which production and land use is controlled by people local to a region, including Indigenous sovereignty.  
 -   "DDEI" stands for "democratization, diversity, equity, and inclusioin." It meausures things like democratic control over politics, co-ops (democratic control of workplaces and housing), gender equity, anti-racism, representation in the media of differing groups, etc.
 -   Work needs to be done to assemble an updated bibliography that pertain to these metrics, and a rationale written for their use.
@@ -37,8 +37,8 @@ These three alternative social drivers would replace "population" "GDP" and "urb
 - While the SSPs tend to congeal the social metrics together before running them through the models, perhaps our approach could make it easier to parse out different metrics and allow users to more easily to toggle the metrics up and down? This may help users better understand the projected cause and effect.
 - For each of the metrics, it will be important to offer ordinary language walk-throughs that explain how these "social structures" lead to emissions, making it easy for non-experts to understand why these metrics were chosen. Thorough and appropriate meta-data is a must!
 - While developing these data sets and metrics, it will be important to keep in mind different types of tools in which they might be incorporated. In this way, working with game designers is advised, so we might ensure these data are as usable as possible for those who wish to create games and interactive tools.
-- It is worth considering that every metric that can be toggled up or down is a form of "game mechanic rhetoric" that encourages uses to behave in ways that cause that thing to change. In this regard, ethicial considerations must be taken regarding which metrics are rendered interactive in any climate data or tool.
-- It is worth documenting any constructive criticisms we may have about methods, espeically present climate data modeling regimes. While one of our goals is to offer an interventions into the SSPs, is the type of modeling really the best approach? An intervention of this kind is certainly needed, but might there be a new paradigm that comes into focus while we work?
+- It is worth considering that every metric that can be toggled up or down is a form of "game mechanic rhetoric" that encourages uses to behave in ways that cause that thing to change. In this regard, ethical considerations must be taken regarding which metrics are rendered interactive in any climate data or tool.
+- It is worth documenting any constructive criticisms we may have about methods, especially present climate data modeling regimes. While one of our goals is to offer an interventions into the SSPs, is the type of modeling really the esp approach? An intervention of this kind is certainly needed, but might there be a new paradigm that comes into focus while we work?
    
 ## Workflow Notes
 

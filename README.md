@@ -9,7 +9,8 @@
 - **Localization (L)** - how far goods and food travel to reach people (L-distance), localization of money and exchange (L-exchange), the degree to which production and land use is controlled by people local to a region including Indigenous sovereignty (L-landuse), etc. 
 - **Equity (E)** - This gets into the emissions reductions correlated with things like democratic control over politics (E-pol), democratic control of workplaces, housing, and production (E-coops), gender equity (E-gender), anti-racism and reduction of inter-group inequity (E-intergroup), improved inclusion of people under 25 on decision-making boards (E-age), etc.
 
-These three alternative social drivers (fff, L, & E) would replace "population" "GDP" and "urbanization" in climate scenarios data. In many of these cases, repairative data work and/or counter data is needed to fill data gaps.
+These three alternative social drivers (fff, L, & E) would replace "population" "GDP" and "urbanization" in climate scenarios data. 
+In many of these cases, repairative data work and/or counter data is needed to fill data gaps.
 
 # Ideas for what could happen next:
 - Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2).

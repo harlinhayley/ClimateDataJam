@@ -11,12 +11,10 @@
 
 These three alternative social drivers (fff, L, & E) would replace "population" "GDP" and "urbanization" in climate scenarios data. 
 
-Repairative data work and counterdata is needed to fill data gaps.
-
 # Ideas for what could happen next:
-- Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2), as well as other pollutants.
-- Develop metric to show relation between L (L-distance, L-exchange, L-landuse) and increased global CO2 emissions (gigatonnes, GtCO2),  as well as other pollutants.
-- Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2), as well as other pollutants.
+- Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2), as well as other pollutants. Repairative data work and counterdata is needed to fill data gaps.
+- Develop metric to show relation between L (L-distance, L-exchange, L-landuse) and increased global CO2 emissions (gigatonnes, GtCO2),  as well as other pollutants. Repairative data work and counterdata is needed to fill data gaps.
+- Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2), as well as other pollutants. Repairative data work and counterdata is needed to fill data gaps.
 - Work needs to be done to assemble an updated bibliography that pertain to these new metrics, and a rationale written for their use.
 
 # More about fff, L & E

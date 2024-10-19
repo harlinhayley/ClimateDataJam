@@ -7,7 +7,7 @@
 ## The SSDs: Three Proposed Alternative Metrics for Climate Scenarios Modeling:
 - **Fossil Fuel Funding (fff)** - divided into global investment ($investment) and global subsidies ($subsidies).
 - **Localization (L)** - how far goods and food travel to reach people (L-distance), localization of money and exchange (L-exchange), the degree to which production and land use is controlled by people local to a region including Indigenous sovereignty (L-landuse), etc. 
-- **Equity (E)** - This gets into the emissions reductions correlated with things like democratic control over politics (E-pol), democratic control of workplaces, housing, and production (E-coops), gender equity (E-gender), anti-racism and reduction of inter-group inequity (E-intergroup), improved inclusion of people under 25 on decision-making boards (E-age), etc.
+- **Equity (E)** - This gets into the emissions reductions correlated with things like democratic control over politics (E-pol), democratic control of workplaces + housing + production (E-coops), gender equity (E-gender), anti-racism and reduction of inter-group inequity (E-intergroup), improved inclusion of people under 25 on decision-making boards (E-age), etc.
 
 These three alternative social drivers (fff, L, & E) would replace "population" "GDP" and "urbanization" in climate scenarios data. 
 In many of these cases, repairative data work and/or counterdata is needed to fill data gaps.

@@ -4,7 +4,7 @@
 - Offer a more ethical and accurate approach to projecting the impact of human behavior upon climate and ecology. 
 - To create an approach that does not use the broken "population" "GDP" and "urbanization" metrics that can be found in current leading approaches that have been shown to be inaccurate and unethical.
 
-## Three Proposed Alternative "Social Structure Driver" Metrics for Climate Scenarios Modeling:
+## The SSDs: Three Proposed Alternative Metrics for Climate Scenarios Modeling:
 -** Fossil Fuel Funding (fff)**- divided into global investment ($investment) and global subsidies ($subsidies), measured in correlation to emissions.
 -**Localization (L)**- how far goods and food travel to reach people (L-distance), as well as localization of money and exchange (L-exchange), as well as the degree to which production and land use is controlled by people local to a region including Indigenous sovereignty (L-landuse). 
 - **Equity (E)**" This gets into the emissions reductions correlated with things like democratic control over politics (E-pol), democratic control of workplaces, housing, and production (E-coops), gender equity (E-gender), anti-racism and reduction of inter-group inequity (E-intergroup), improved inclusion of people under 25 on decision-making boards (E-age), etc.

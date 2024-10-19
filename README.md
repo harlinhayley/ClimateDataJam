@@ -14,7 +14,7 @@ In many of these cases, repairative data work and/or counter data is needed to f
 
 # Ideas for what could happen next:
 - Develop metric to show relation between fff ($investment, $subsidies) and increased global CO2 emissions (gigatonnes, GtCO2).
-- Create new set of socio-economic scenarios data that exclude the broken population metric.
+- Develop new set of socio-economic scenarios data that exclude the broken "population" "GPD" and "urbanization" metrics.
 -  This set of scenarios data would use fff (fossil fuel funding) as its core social driver (similar to the way the SSPs use "population"). FFF would be mediated in two ways: $investment and $subsidies. This is a fixed catagory, and would only include these two factors.
 -   "Localization" (L) aims to measure the degree to which processes and power-structures have been localized in ways that have been found to corelate with emissions reductions. This is an expanding catagory, and might be modified to include new factors that are established as these datasets expand. 
 -   "Equity" (E) meausures forms of democratization, including co-ops (democratic control of workplaces, housing, and production), improved gender equity, anti-racism & the reduction of intergroup inequities, equities in representation in the media of differing groups, etc. This is an expanding catagory, and might be modified to include new factors that are established as these datasets expand. 

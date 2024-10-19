@@ -5,7 +5,7 @@
 - Develop an approach that does not use the broken "population" "GDP" and "urbanization" metrics that can be found in current leading approaches that have been shown to be inaccurate and unethical.
 
 ## The SSDs: Three Proposed Alternative Metrics for Climate Scenarios Modeling:
-- **Fossil Fuel Funding (fff)** - divided into global investment ($investment) and global subsidies ($subsidies), measured in correlation to emissions.
+- **Fossil Fuel Funding (fff)** - divided into global investment ($investment) and global subsidies ($subsidies).
 - **Localization (L)** - how far goods and food travel to reach people (L-distance), localization of money and exchange (L-exchange), the degree to which production and land use is controlled by people local to a region including Indigenous sovereignty (L-landuse), etc. 
 - **Equity (E)** - This gets into the emissions reductions correlated with things like democratic control over politics (E-pol), democratic control of workplaces, housing, and production (E-coops), gender equity (E-gender), anti-racism and reduction of inter-group inequity (E-intergroup), improved inclusion of people under 25 on decision-making boards (E-age), etc.
 

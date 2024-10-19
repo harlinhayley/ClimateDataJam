@@ -2,7 +2,7 @@
 
 ## Two goals of this project
 - Offer a more ethical and accurate approach to projecting the impact of human behavior upon climate and ecology. 
-- To create an approach that does not use the broken "population" "GDP" and "urbanization" metrics that can be found in current leading approaches that have been shown to be inaccurate and unethical.
+- Develop an approach that does not use the broken "population" "GDP" and "urbanization" metrics that can be found in current leading approaches that have been shown to be inaccurate and unethical.
 
 ## The SSDs: Three Proposed Alternative Metrics for Climate Scenarios Modeling:
 - **Fossil Fuel Funding (fff)** - divided into global investment ($investment) and global subsidies ($subsidies), measured in correlation to emissions.

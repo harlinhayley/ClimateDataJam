@@ -1,7 +1,7 @@
 ## **The Social Strcuture Drivers (SSDs): Towards a new approach to climate and ecological projections**
 
 ## Two goals of this project
-- Offer a new approach to projecting the impact of human behavior upon climate and ecology. 
+- Offer a more ethical and accurate approach to projecting the impact of human behavior upon climate and ecology. 
 - To create an approach that does not use the broken "population" "GDP" and "urbanization" metrics that can be found in current leading approaches.
 
 ## Three Proposed Alternative "Social Structure Driver" Metrics for Climate Scenarios Modeling:

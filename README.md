@@ -1,4 +1,4 @@
-##**The Social Strcuture Drivers (SSDs): Towards a new approach to climate and ecological projections**
+## **The Social Strcuture Drivers (SSDs): Towards a new approach to climate and ecological projections**
 
 ## Two goals of this project
 - Offer a new approach to projecting the impact of human behavior upon climate and ecology. 
